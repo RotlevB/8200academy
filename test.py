@@ -6,3 +6,5 @@ b = "kljsadnkjsg"
 print(b)
 
 print(a)
+
+print(b)
