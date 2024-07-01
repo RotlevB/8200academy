@@ -7,4 +7,6 @@ print(b)
 
 print(a)
 
-print(a)
+
+print(b + a)
+
